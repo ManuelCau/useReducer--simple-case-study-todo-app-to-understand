@@ -35,7 +35,7 @@ Makes state transitions more predictable and easier to test.
 
 ## 🧱 About the project
 
-This project is a simple To-Do App that allows the user to write text in an input field, display it in a list, and remove items from that list.
+This project is a simple To-Do App that allows the user to write text in an input field, display it in a list, check and remove items from that list.
 
 useReducer is used to manage the data logic — adding and removing items from the list — while useState is used to manage the input value as local state.
 
